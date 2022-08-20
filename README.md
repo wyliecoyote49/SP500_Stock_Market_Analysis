@@ -1,6 +1,7 @@
 # SP500_Stock_Market_Analysis
 
 Introduction: -- 08.18.2022
+    
     In this guided project, I learned how to run an analysis on the S&P500 index with aim to predict stock market performance and guide future decisions.
 
 
@@ -10,5 +11,6 @@ Outcome: -- 08.20.2022
 
 
 Considerations: -- 08.20.2022
+    
     Thinking further on ways to potentially increase resulting profitability of this algorithm, we could increase the resolution by looking at hourly trading, though this increase in data can become quite expensive. We could also pivot to look at something with more data, such as crypto-currencies, due to their unlimited trading. We could also look into macroeconomic influences, such recessions, inflation, interests rates, global news, etc. We could also look at overnight exchanges (international indices which trade on different timeframes rather than the US market only).
     Another consideration for altering the code: we could decrease the step size to increase how much data we look at, but this can also get expensive. 
