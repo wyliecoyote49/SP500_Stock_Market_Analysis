@@ -1,7 +1,7 @@
 # SP500_Stock_Market_Analysis
 
 Introduction:
-08.18.2022:    In this guided project, I learned how to run an analysis on the S&P500 index with aim to predict stock market performance and guide future decisions.
+08.18.2022:    In this project, I learned how to run an analysis on the S&P500 index with aim to predict stock market performance and guide future decisions.
 
 
 Outcome:
