@@ -5,7 +5,7 @@ Introduction:
 
 
 Outcome:
-08.20.2022    In an effort to reduce false positives (the algorithm predicts the stock will go up and it does not), this project uses a weight function in it's analysis to guide the algorithm's predictions for an increase only if it is at least 70% confident that the stock will go up. The result of changing the base weights of 50/50 to 70/30 yielded an 8% increase in accuracy, landing at 58% accuracy on the whole of the algorithm, as well as a large decrease in the number of predicted increases. This result equates to fewer trades and a slightly higher likeliehood in profitability. It is profitable at this point, but considerations for moving forward and potentially enhancing this alogirthm follow.
+08.20.2022    In an effort to reduce false positives (the algorithm predicts the stock will go up and it does not), this project uses a weight function in it's analysis to guide the algorithm's predictions for an increase only if it is at least 70% confident that the stock will go up. The result of changing the base weights of 50/50 to 70/30 yielded an 8% increase in accuracy, landing at 68% accuracy on the whole of the algorithm, as well as a large decrease in the number of predicted increases. This result equates to fewer trades and a slightly higher likeliehood in profitability. It is profitable at this point, but considerations for moving forward and potentially enhancing this alogirthm follow.
 
 
 Considerations: 
